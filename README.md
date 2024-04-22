@@ -17,3 +17,8 @@ My name is Andrew and welcome to my page.
 
 ## ![phone](ringphone.gif) How to reach me
 Connect with me on LinkedIn or send me an e-mail. Contacts are listed on my profile's left sidebar.
+
+## How to thank me
+Do you like any software I created? You can buy me a coffee, so I can continue to develop more free cool stuff 😄.
+
+<a href="https://www.buymeacoffee.com/andreondra" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/yellow_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
