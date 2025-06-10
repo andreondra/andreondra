@@ -13,7 +13,7 @@ My name is Andrew and welcome to my page.
 
 ⚙️ I love computer hardware development, embedded systems, firmware development, and IoT-related stuff. I'm a big fan of RISC-V computer architecture.
 
-🛠️ Currently I work at [Tropic Square](https://tropicsquare.com/) as a Digital Design Engineer. In my spare time, I work on a research project focused on the practical usage of Linux-based operating systems on the RISC-V platform. I developed a custom RV32IMZicsr microarchitecture with Debug Support in SystemVerilog. I also work on some other projects, check out my repositories 😄.
+🛠️ Currently I work at [Tropic Square](https://tropicsquare.com/) as a Digital Design Engineer. In my spare time, I work on a research project focused on the practical usage of Linux-based operating systems on the RISC-V platform. I developed a custom [RV32IMZicsr microarchitecture](https://github.com/HoneyGol-Microsystems/vesp-beta) with Debug Support in SystemVerilog. I also work on some other projects, check out my repositories 😄.
 
 ## ![phone](ringphone.gif) How to reach me
 Connect with me on LinkedIn or send me an e-mail. Contacts are listed on my profile's left sidebar.
