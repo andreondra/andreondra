@@ -5,9 +5,7 @@ My name is Andrew and welcome to my page.
 
 ## ![question mark](qmark.gif) About me
 
-🎓 I've got a bachelor's degree from the Czech Technical University in Prague. Check out my [thesis](https://github.com/andreondra/bachelor-thesis) and an associated [project](https://github.com/andreondra/use).
-
-📚 Currently I'm studying master's (Computer Science) at the same university.
+🎓 I've got a masters's degree from the Czech Technical University in Prague.
 
 💼 I had an internship at Microsoft and IBM, worked as a React web developer, full-stack developer, Office lecturer, a teacher of electronics-related tutorials at the Czech Technical University, and more. Check out my [LinkedIn](https://www.linkedin.com/in/ondrej-golasowski/).
 
