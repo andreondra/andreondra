@@ -5,13 +5,13 @@ My name is Andrew and welcome to my page.
 
 ## ![question mark](qmark.gif) About me
 
-🎓 I've got a masters's degree from the Czech Technical University in Prague.
+🎓 I've got a masters's degree from the Czech Technical University in Prague. I worked on a research project focused on the practical usage of Linux-based operating systems on the RISC-V platform. I developed a custom [RV32IMZicsr microarchitecture](https://github.com/HoneyGol-Microsystems/vesp-beta) with Debug Support in SystemVerilog.
 
-💼 I had an internship at Microsoft and IBM, worked as a React web developer, full-stack developer, Office lecturer, a teacher of electronics-related tutorials at the Czech Technical University, and more. Check out my [LinkedIn](https://www.linkedin.com/in/ondrej-golasowski/).
+💼 I had an internship at Microsoft and IBM, worked as a React web developer, full-stack developer, Office lecturer, a teacher of electronics-related tutorials at the Czech Technical University, ASIC Design Engineer, and more. Check out my [LinkedIn](https://www.linkedin.com/in/ondrej-golasowski/).
 
 ⚙️ I love computer hardware development, embedded systems, firmware development, and IoT-related stuff. I'm a big fan of RISC-V computer architecture.
 
-🛠️ Currently I work at [Tropic Square](https://tropicsquare.com/) as a Digital Design Engineer. In my spare time, I work on a research project focused on the practical usage of Linux-based operating systems on the RISC-V platform. I developed a custom [RV32IMZicsr microarchitecture](https://github.com/HoneyGol-Microsystems/vesp-beta) with Debug Support in SystemVerilog. I also work on some other projects, check out my repositories 😄.
+🛠️ Currently I freelance as Embedded Software Developer (e.g., for [Tropic Square](https://tropicsquare.com/)).
 
 ## ![phone](ringphone.gif) How to reach me
 Connect with me on LinkedIn or send me an e-mail. Contacts are listed on my profile's left sidebar.
