@@ -11,7 +11,7 @@ My name is Andrew and welcome to my page.
 
 ⚙️ I love computer hardware development, embedded systems, firmware development, and IoT-related stuff. I'm a big fan of RISC-V computer architecture.
 
-🛠️ Currently I freelance as Embedded Software Developer (e.g., for [Tropic Square](https://tropicsquare.com/)).
+🛠️ Currently I freelance as Embedded Software Developer (e.g., for [Tropic Square](https://tropicsquare.com/), [Braiins Forge](https://braiinsforge.com/)).
 
 ## ![phone](ringphone.gif) How to reach me
 Connect with me on LinkedIn or send me an e-mail. Contacts are listed on my profile's left sidebar.
